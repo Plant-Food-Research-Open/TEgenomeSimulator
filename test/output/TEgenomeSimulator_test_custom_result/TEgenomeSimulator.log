@@ -1,9 +1,0 @@
-/home/cflthc/.local/lib/python3.9/site-packages/Bio/SeqRecord.py:354: BiopythonDeprecationWarning: Using a string as the sequence is deprecated and will raise a TypeError in future. It has been converted to a Seq object.
-  warnings.warn(
-
-
-##############################################################
-### Mutate TE sequence and perform non-overlap TE insertion###
-##############################################################
-Using mode 1 (0 for random genome; 1 for custome genome)
-Using config file TEgenomeSimulator_test_custom.yml

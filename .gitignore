@@ -31,3 +31,8 @@ test/test_reproducibility.md
 # ignore pub
 pub
 pub/*
+
+# ignore build, dist and egg-info
+build/
+dist/
+*.egg-info/
