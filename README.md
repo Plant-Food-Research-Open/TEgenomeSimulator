@@ -273,16 +273,17 @@ apptainer run TEgenomeSimulator_v1.0.0.sif -M 2 -S $tetools -p $prefix -g $genom
 ## Credits, Funding and Acknowledgement
 - **Original Development**: TEgenomeSimulator was designed and developed by Ting-Hsuan Chen [@ting-hsuan-chen](https://github.com/ting-hsuan-chen).
 - **Funding and Leadership**: This work is part of the Kiwifruit Royalty Investment Programme (KRIP)-funded _Genome Landscape_ objective, led by Susan Thomson [@cflsjt](https://github.com/cflsjt).
-- **Reviewing and Testing**: Special thanks to Olivia Angeline-Bonnet [@oliviaAB](https://github.com/oliviaAB) for reviewing and testing TEgenomeSimulator, and to Cecilia Deng [@CeciliaDeng](https://github.com/CeciliaDeng) for additional review efforts.
-- **Team Contributions**: We appreciate all the advice and comments from The New Zealand Institute for Plant and Food Research Limited Bioinformatics Analysis and Bioinformatics Engineering Teams.
+- **Reviewing and Testing**: Special thanks to Olivia Angeline-Bonnet [@oliviaAB](https://github.com/oliviaAB), James Bristow [@JBris](https://github.com/JBris), and Christopher Benson [@cwb14](https://github.com/cwb14) for reviewing and testing TEgenomeSimulator, and to Cecilia Deng [@CeciliaDeng](https://github.com/CeciliaDeng) and Shujun Ou [@oushujun](https://github.com/oushujun) for additional review efforts.
+- **Team Contributions**: We appreciate all the advice and comments from The New Zealand Institute for Plant and Food Research Limited Bioinformatics Analysis and Bioinformatics Engineering Teams (now New Zealand Institute for Bioeconomy Science Limited).
 
 
 ## Citations
+> Chen T-H, Angelin-Bonnet O, Bristow J, Benson C, Ou S, Deng C, Thomson S. **TEgenomeSimulator: A Flexible Framework for Simulating Genomes with Configurable Transposable Element Landscapes.** bioRxiv; 2026. p. 2026.03.09.710711. https://doi.org/10.64898/2026.03.09.710711
 - If you use TEgenomeSimulator v0.1.0, please cite it as:
   > **TEgenomeSimulator: A tool to simulate TE mutation and insertion into a random-synthesised or user-provided genome.** \
   > Ting-Hsuan Chen, Olivia Angeline-Bonnet, Cecilia Deng, Susan Thomson \
   > zenodo. 2024. doi: 10.5281/zenodo.14744027
-- For TEgenomeSimulator v1.0.0, the manuscript is currently in preperation.
+
 
 ## Contact person
 Ting-Hsuan Chen: ting-hsuan.chen@plantandfood.co.nz
